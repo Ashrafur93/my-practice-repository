@@ -4,7 +4,7 @@ Welcome to my first website!
 
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-Take a look at my website [here.](https://codeinstitute-ide.net/?autostart=true#https://github.com/Ashrafur93/my-practice-repository)
+Take a look at my website [here.]()
 
 ## Project description
 
